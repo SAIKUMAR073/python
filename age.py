@@ -1,0 +1,5 @@
+name=input("enter name:")
+age=int(input("enter age:"))
+year=int(input("the year you celebrated your previous birthday"))
+c=((100-age)+year)
+print(name+'you will turn 100 in the year:',c)
